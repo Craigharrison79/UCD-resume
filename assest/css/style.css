@@ -29,6 +29,10 @@
     background-color: #d8d6d6;
 }
 
+.bg-color-work-history {
+    background-color: #9b59b6;
+}
+
 .row-table {
     display: table;
 }
@@ -321,6 +325,6 @@ footer {
     background: #fafafa;
 }
 
-.history-item {
+.history-items {
     margin-bottom: 30px;
 }
