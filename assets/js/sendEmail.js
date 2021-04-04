@@ -1,6 +1,6 @@
 //console.log("hello");
 
-function sendMail(contactForm ){
+function sendMail(contactForm){
     email.js.send("MPT", "MPT", {
         "from_name": contactForm.name.value,
         "from_email": contactForm.emailaddress.value,
